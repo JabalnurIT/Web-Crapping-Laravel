@@ -22,14 +22,10 @@
         <div id="home" class="jumbotron">
             <div class="row align-item-center">
                 <div class="home-text">
-                    <p>Hello, My Name is</p>
-                    <h1>Jabalnur</h1>
-                    <h2>I'm a <span>Web Developer</span></h2>
-                </div>
-                <div class="home-img">
-                    <div class="img-box">
-                        <img src="assets/image/jabalnur.png" alt="Jabal.img">
-                    </div>
+                    <p>Hello, Our Name is</p>
+                    <h1>Jabalnur &</h1>
+                    <h1>M. Fachri Dwi Handoko</h1>
+                    <h2>5025201241 - <span>5025201159</span></h2>
                 </div>
             </div>
         </div>
@@ -68,56 +64,17 @@
         <aside>
             <article id="aboutme" class="profile card">
                 <header>
-                    <h2>About Me</h2>
+                    <h2>Kelompok 5</h2>
                     <figure>
                         <img src="assets/image/jabalnur.png" alt="gambar jabal">
                         <figcaption>Jabalnur</figcaption>
                     </figure>
+                    <figure>
+                        <img src="assets/image/fach.jpg" alt="gambar Fachry">
+                        <figcaption>M. Fachri Dwi Handoko</figcaption>
+                    </figure>
                 </header>
-                <section>
-                    <table>
-                        <tr>
-                            <th>Tempat Lahir</th>
-                            <td>Pangkep</td>
-                        </tr>
-                        <tr>
-                            <th>Tanggal Lahir</th>
-                            <td>29 Juni 2000</td>
-                        </tr>
-                        <tr>
-                            <th>Jurusan</th>
-                            <td>Teknik Informatika</td>
-                        </tr>
-                        <tr>
-                            <th>Alamat</th>
-                            <td>Pangkep, Sulawesi Selatan</td>
-                        </tr>
-                        <tr>
-                            <th>Telepon</th>
-                            <td>+62 853 4258 2944</td>
-                        </tr>
-                        <tr>
-                            <th>Skills</th>
-                            <td></td>
-                        </tr>
-                    </table>
-                </section>
-                <section>
-                    <div class="skills">
-                        <div class="skill-item">html</div>
-                        <div class="skill-item">CSS</div>
-                        <div class="skill-item">Javascript</div>
-                        <div class="skill-item">PHP</div>
-                        <div class="skill-item">Laravel</div>
-                        <div class="skill-item">Bootstrap</div>
-                        <div class="skill-item">Photoshop</div>
-                        <div class="skill-item">C</div>
-                        <div class="skill-item">C++</div>
-                        <div class="skill-item">Kotlin</div>
-                        <div class="skill-item">Pascal</div>
-                        <div class="skill-item">Phyton</div>
-                    </div>
-                </section>
+                
             </article>
         </aside>
     </main>
